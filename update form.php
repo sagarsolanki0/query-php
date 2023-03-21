@@ -41,7 +41,7 @@
 	<h3> Form</h3>
 
 	<div>
-	<form action="insert.php" method="POST">
+	<form action="update.php" method="REQUEST">
 		<label for="fname">First Name</label>
 		<input type="text" id="fname" name="fnm" placeholder="Your name..">
 

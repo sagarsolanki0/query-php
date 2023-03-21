@@ -1,0 +1,11 @@
+<?php
+	$con=mysqli_connect("localhost","root","","sagar");
+	if($con==TRUE)
+	{
+		echo"CONNECTED!";
+	}
+	else
+	{
+		echo"NOT!";
+	}
+?>
